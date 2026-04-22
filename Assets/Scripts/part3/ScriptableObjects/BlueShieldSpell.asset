@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5c83439379c43d58b6dde5bfec01e29, type: 3}
+  m_Name: BlueShieldSpell
+  m_EditorClassIdentifier: Assembly-CSharp::ShieldSpellStrategy
+  shieldPrefab: {fileID: 5973126776154347287, guid: 05f1965ef9415cc4285e011ea167f49e, type: 3}
+  duration: 10
